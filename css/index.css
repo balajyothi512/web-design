@@ -1,6 +1,6 @@
 div{
-    border: 5px solid pink;
-    width: 20%;
+    border: 2px solid pink;
+    /* width: 20%; */
     /* width: 100px; */
     margin: 0% 0 10% 10%;
 }
@@ -10,4 +10,10 @@ img{
 }
 h1{
     background: #238f3a;
+}
+.parent{
+    display:flex;
+justify-content: center;
+
+}
 }
